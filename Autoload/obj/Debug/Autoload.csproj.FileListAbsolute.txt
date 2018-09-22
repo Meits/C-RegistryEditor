@@ -1,0 +1,9 @@
+D:\step\system\homeWork_1537110323\solution\Autoload\Autoload\bin\Debug\Autoload.exe.config
+D:\step\system\homeWork_1537110323\solution\Autoload\Autoload\bin\Debug\Autoload.exe
+D:\step\system\homeWork_1537110323\solution\Autoload\Autoload\bin\Debug\Autoload.pdb
+D:\step\system\homeWork_1537110323\solution\Autoload\Autoload\obj\Debug\Autoload.csprojResolveAssemblyReference.cache
+D:\step\system\homeWork_1537110323\solution\Autoload\Autoload\obj\Debug\Autoload.Properties.Resources.resources
+D:\step\system\homeWork_1537110323\solution\Autoload\Autoload\obj\Debug\Autoload.csproj.GenerateResource.Cache
+D:\step\system\homeWork_1537110323\solution\Autoload\Autoload\obj\Debug\Autoload.exe
+D:\step\system\homeWork_1537110323\solution\Autoload\Autoload\obj\Debug\Autoload.pdb
+D:\step\system\homeWork_1537110323\solution\Autoload\Autoload\obj\Debug\Autoload.Form1.resources
